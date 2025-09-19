@@ -25,6 +25,14 @@ There you’ll find:
 
 ---
 
+## 📂 Dataset Pages
+
+- [GPU Deals Dataset](./gpu) — NVIDIA & AMD GPU pricing with performance-per-dollar metrics.  
+- [RAM Deals Dataset](./ram) — DDR4 & DDR5 memory kits with $/GB pricing.  
+- [Drive Deals Dataset](./drives) — NVMe, SATA, external, and enterprise SSD/HDD prices.  
+
+--
+
 ## 📂 Dataset Repositories
 - [GPU Deals Dataset](https://github.com/HardwareDealsCo/gpu-deals)  
 - [RAM Deals Dataset](https://github.com/HardwareDealsCo/ram-deals)  
